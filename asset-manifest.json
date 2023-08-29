@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.08d0903c.css",
+    "main.js": "/static/js/main.48310956.js",
+    "static/js/787.024b46cb.chunk.js": "/static/js/787.024b46cb.chunk.js",
+    "static/media/background-pfizerkoipond.jpg": "/static/media/background-pfizerkoipond.2cb3e48c13fe688a4c55.jpg",
+    "index.html": "/index.html",
+    "main.08d0903c.css.map": "/static/css/main.08d0903c.css.map",
+    "main.48310956.js.map": "/static/js/main.48310956.js.map",
+    "787.024b46cb.chunk.js.map": "/static/js/787.024b46cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08d0903c.css",
+    "static/js/main.48310956.js"
+  ]
+}
